@@ -5,3 +5,6 @@
 * Config Client
 * Spring Boot Actuator
 * Spring Boot DevTools
+
+
+http://localhost:8761/
